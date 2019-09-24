@@ -27,4 +27,4 @@ Ensuite, pour diffuser le programme, tapez :
 
 	pyinstaller -w -F client.py
  
-L'option -w permet le camouflage de la console au démarrage. L'option -F permet d'obtenir un unique fichier, ce qui est plus facile pour ça propagation.
+L'option -w permet le camouflage de la console au démarrage. L'option -F permet d'obtenir un unique fichier, ce qui est plus facile pour sa propagation.
